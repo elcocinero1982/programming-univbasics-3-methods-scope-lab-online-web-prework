@@ -7,6 +7,7 @@ end
 
 
 def toadstool
+  status = 
   puts status
 end
 def link
